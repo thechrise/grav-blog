@@ -1,5 +1,5 @@
 ---
-title: Sunshine in the Mountains
+title: Sunshine in the Rockies
 date: 14:55 07/11/2014
 author: Tasha Maxwell
 taxonomy:
